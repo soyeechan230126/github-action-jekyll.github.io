@@ -4,3 +4,15 @@
 
 layout: default
 ---
+# About
+
+## About ELNs
+
+ELN stands for *electronic laboratory notebook*.
+
+## About the Team
+### Prof. Dr. Christoph Steinbeck
+
+### Dr. Kevin Jablonka
+
+### Soyee Chan
