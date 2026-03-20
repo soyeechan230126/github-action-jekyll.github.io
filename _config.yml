@@ -22,7 +22,7 @@ title: GitHub Action (Jekyll, not GitHub Page with Jekyll)
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a testing site using GitHub Action with Jekyll. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/practice2_githubActions.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

@@ -11,8 +11,8 @@ layout: default
 ELN stands for *Electronic Lab Notebook*.
 
 ## About the Team
-### [Prof. Dr. Christoph Steinbeck](./christoph-steinbeck.html)
+### [Prof. Dr. Christoph Steinbeck](./_team/christoph-steinbeck.html)
 
-### [Dr. Kevin Jablonka](./kevin-jablonka.html)
+### [Dr. Kevin Jablonka](./_team/kevin-jablonka.html)
 
-### [Soyee Chan](./soyee-chan.html)
+### [Soyee Chan](./_team/soyee-chan.html)
